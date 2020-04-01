@@ -1,0 +1,13 @@
+.google {
+    display: flex;
+  }
+  
+  // below is for demonstration purpose
+  $height: 50px;
+  $minWidth: 200px;
+
+  .left, .middle, .right {
+    height: $height;
+    min-width: $minWidth;
+  }
+  
